@@ -16,7 +16,7 @@ function Movie({ id, title, genres, coverImg, summary }) {
         ))}
       </ul>
       <img src={coverImg} alt={title} />
-      <p>{summary}</p>
+      <p>{summary.length > 235 ? `${summary.slice(0, 235)}...` : summary}</p>
       <br />
       <br />
     </div>
