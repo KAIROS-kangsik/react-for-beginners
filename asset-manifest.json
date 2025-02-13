@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.5e71be48.js",
+    "main.js": "/react-for-beginners/static/js/main.50569e95.js",
     "reactPlayerYouTube.js": "/react-for-beginners/static/js/reactPlayerYouTube.e028492f.chunk.js",
     "reactPlayerSoundCloud.js": "/react-for-beginners/static/js/reactPlayerSoundCloud.d35d4b67.chunk.js",
     "reactPlayerVimeo.js": "/react-for-beginners/static/js/reactPlayerVimeo.a7a5be04.chunk.js",
@@ -16,7 +16,7 @@
     "reactPlayerFilePlayer.js": "/react-for-beginners/static/js/reactPlayerFilePlayer.9538de02.chunk.js",
     "reactPlayerPreview.js": "/react-for-beginners/static/js/reactPlayerPreview.2ce30d90.chunk.js",
     "index.html": "/react-for-beginners/index.html",
-    "main.5e71be48.js.map": "/react-for-beginners/static/js/main.5e71be48.js.map",
+    "main.50569e95.js.map": "/react-for-beginners/static/js/main.50569e95.js.map",
     "reactPlayerYouTube.e028492f.chunk.js.map": "/react-for-beginners/static/js/reactPlayerYouTube.e028492f.chunk.js.map",
     "reactPlayerSoundCloud.d35d4b67.chunk.js.map": "/react-for-beginners/static/js/reactPlayerSoundCloud.d35d4b67.chunk.js.map",
     "reactPlayerVimeo.a7a5be04.chunk.js.map": "/react-for-beginners/static/js/reactPlayerVimeo.a7a5be04.chunk.js.map",
@@ -33,6 +33,6 @@
     "reactPlayerPreview.2ce30d90.chunk.js.map": "/react-for-beginners/static/js/reactPlayerPreview.2ce30d90.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5e71be48.js"
+    "static/js/main.50569e95.js"
   ]
 }
