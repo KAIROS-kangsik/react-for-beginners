@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/react-for-beginners/static/js/main.5e71be48.js",
+    "reactPlayerYouTube.js": "/react-for-beginners/static/js/reactPlayerYouTube.e028492f.chunk.js",
+    "reactPlayerSoundCloud.js": "/react-for-beginners/static/js/reactPlayerSoundCloud.d35d4b67.chunk.js",
+    "reactPlayerVimeo.js": "/react-for-beginners/static/js/reactPlayerVimeo.a7a5be04.chunk.js",
+    "reactPlayerMux.js": "/react-for-beginners/static/js/reactPlayerMux.714d6dfe.chunk.js",
+    "reactPlayerFacebook.js": "/react-for-beginners/static/js/reactPlayerFacebook.86898742.chunk.js",
+    "reactPlayerStreamable.js": "/react-for-beginners/static/js/reactPlayerStreamable.a4828b69.chunk.js",
+    "reactPlayerWistia.js": "/react-for-beginners/static/js/reactPlayerWistia.a7199637.chunk.js",
+    "reactPlayerTwitch.js": "/react-for-beginners/static/js/reactPlayerTwitch.71a2c1c4.chunk.js",
+    "reactPlayerDailyMotion.js": "/react-for-beginners/static/js/reactPlayerDailyMotion.c28bc460.chunk.js",
+    "reactPlayerMixcloud.js": "/react-for-beginners/static/js/reactPlayerMixcloud.3f4d9e23.chunk.js",
+    "reactPlayerVidyard.js": "/react-for-beginners/static/js/reactPlayerVidyard.ec2d60f8.chunk.js",
+    "reactPlayerKaltura.js": "/react-for-beginners/static/js/reactPlayerKaltura.90f6157a.chunk.js",
+    "reactPlayerFilePlayer.js": "/react-for-beginners/static/js/reactPlayerFilePlayer.9538de02.chunk.js",
+    "reactPlayerPreview.js": "/react-for-beginners/static/js/reactPlayerPreview.2ce30d90.chunk.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.5e71be48.js.map": "/react-for-beginners/static/js/main.5e71be48.js.map",
+    "reactPlayerYouTube.e028492f.chunk.js.map": "/react-for-beginners/static/js/reactPlayerYouTube.e028492f.chunk.js.map",
+    "reactPlayerSoundCloud.d35d4b67.chunk.js.map": "/react-for-beginners/static/js/reactPlayerSoundCloud.d35d4b67.chunk.js.map",
+    "reactPlayerVimeo.a7a5be04.chunk.js.map": "/react-for-beginners/static/js/reactPlayerVimeo.a7a5be04.chunk.js.map",
+    "reactPlayerMux.714d6dfe.chunk.js.map": "/react-for-beginners/static/js/reactPlayerMux.714d6dfe.chunk.js.map",
+    "reactPlayerFacebook.86898742.chunk.js.map": "/react-for-beginners/static/js/reactPlayerFacebook.86898742.chunk.js.map",
+    "reactPlayerStreamable.a4828b69.chunk.js.map": "/react-for-beginners/static/js/reactPlayerStreamable.a4828b69.chunk.js.map",
+    "reactPlayerWistia.a7199637.chunk.js.map": "/react-for-beginners/static/js/reactPlayerWistia.a7199637.chunk.js.map",
+    "reactPlayerTwitch.71a2c1c4.chunk.js.map": "/react-for-beginners/static/js/reactPlayerTwitch.71a2c1c4.chunk.js.map",
+    "reactPlayerDailyMotion.c28bc460.chunk.js.map": "/react-for-beginners/static/js/reactPlayerDailyMotion.c28bc460.chunk.js.map",
+    "reactPlayerMixcloud.3f4d9e23.chunk.js.map": "/react-for-beginners/static/js/reactPlayerMixcloud.3f4d9e23.chunk.js.map",
+    "reactPlayerVidyard.ec2d60f8.chunk.js.map": "/react-for-beginners/static/js/reactPlayerVidyard.ec2d60f8.chunk.js.map",
+    "reactPlayerKaltura.90f6157a.chunk.js.map": "/react-for-beginners/static/js/reactPlayerKaltura.90f6157a.chunk.js.map",
+    "reactPlayerFilePlayer.9538de02.chunk.js.map": "/react-for-beginners/static/js/reactPlayerFilePlayer.9538de02.chunk.js.map",
+    "reactPlayerPreview.2ce30d90.chunk.js.map": "/react-for-beginners/static/js/reactPlayerPreview.2ce30d90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e71be48.js"
+  ]
+}
